@@ -1,5 +1,4 @@
 Anush - Web Developer & Game Server Specialist
-Header Image
 
 About Me
 Hello! 👋 I'm Anush, an experienced Web Developer with a focus on game server development. This repository serves as a snapshot of my professional journey, showcasing my skills, projects, and contributions to the world of gaming and web development.
