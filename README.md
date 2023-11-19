@@ -21,7 +21,7 @@ Hello! 👋 I'm Anush, an experienced Web Developer with a focus on game server 
 
 ## Education
 **Bachelor of Science in Computer Science**
-*University of Technology | City, State | Graduated May 2014*
+*University of Technology | Milat, Italy | Graduated May 2014*
 
 ## Skills
 - Languages: JavaScript, Python, Java
@@ -42,7 +42,7 @@ Hello! 👋 I'm Anush, an experienced Web Developer with a focus on game server 
 - Certified Web Developer (AWD)
 - Game Development Certification (GDC)
 
-## Let's Connect!
+## Let's Connect! 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - [Twitter](https://twitter.com/your-twitter-handle)
 - [Personal Website/Blog](https://www.yourwebsite.com)
