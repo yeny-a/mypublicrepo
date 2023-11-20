@@ -21,7 +21,7 @@ Hello! 👋 I'm Anush, an experienced Web Developer with a focus on game server 
 
 ## Education
 **Bachelor of Science in Computer Science**
-*University of Technology | Milat, Italy | Graduated May 2014*
+*University of Technology | Milan, Italy | Graduated May 2014*
 
 ## Skills
 - Languages: JavaScript, Python, Java
@@ -43,8 +43,8 @@ Hello! 👋 I'm Anush, an experienced Web Developer with a focus on game server 
 - Game Development Certification (GDC)
 
 ## Let's Connect! 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Website/Blog](https://www.yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) - to add later
+- [Twitter](https://twitter.com/your-twitter-handle) - to add later
+- [Personal Website/Blog](https://www.yourwebsite.com) - to add later
 
 Feel free to explore my journey and connect with me for collaborations or discussions. Happy coding! 🚀
